@@ -14,8 +14,8 @@ const { t } = useI18n()
       <ASpace>
         <div>
           Copyright &copy; {{ currentYear }}
-          <ALink target="_blank" href="https://github.com/ikxin/kms-tools">
-            KMS Tools
+          <ALink target="_blank" href="https://wjx.im">
+            老汪博客
           </ALink>
         </div>
         <div>
